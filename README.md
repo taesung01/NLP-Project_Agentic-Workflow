@@ -88,9 +88,9 @@ python src/evaluate_high_performance.py --data data/A_company_202501_clean.jsonl
 python src/calculate_metrics.py runs/results_hybrid_high_performance.csv
 
 ### Expected output:
-### Overall Accuracy: 0.9725 (106/109)
-### Macro F1: 0.7824
-### Weighted F1: 0.9768
+Overall Accuracy: 0.9725 (106/109)
+Macro F1: 0.7824
+Weighted F1: 0.9768
 
 ## Demo Examples
 results_hybrid_high_performance.csv  # Hybrid results (97.25%)
