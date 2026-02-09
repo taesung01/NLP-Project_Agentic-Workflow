@@ -42,8 +42,8 @@ rules = {
 
 ## Results
 
-![f1.jpg](figures/f1.jpg)
-![recall.jpg](figures/recall.jpg)
+![Accuracy Comparison](figures/accuracy_comparison.png)
+![Category Performance](figures/category_performance.png)
 
 For details about the experiment, refer to `presentation.pdf`.
 
